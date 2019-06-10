@@ -1,0 +1,140 @@
+/*Changes background image to wallpaper of Selena Gomez and centers body.*/
+body
+{
+	font: Verdana,sans-serif;
+	text-align: center;
+	background-image:url("selenawebsitewallpaper.jpg");
+	background-size: 1500px, 900px
+}
+
+/*Changes background colour and text colour of paragraphs.*/
+p
+{
+	margin:0px 10px 10px;
+	background-color:yellow;
+	color: purple;
+}
+
+/*Aligns the menu to the left.*/
+div#container
+{
+	text-align:left
+}
+
+/*The line-height property defines the amount of space above and below inline paragraphs*/
+div#content 
+p
+{
+	line-height:1.4
+}
+
+/*Makes the content look more professional, more colour at the sides of the paragraphs.*/
+p
+{
+	margin:0;
+	padding:5px 10px
+}
+
+/*Aligns all content elements in the centre.*/
+div#container
+{
+	width:800px;
+	margin:0 auto
+}
+
+/*Aligns all the content elements in relation to the menu for "a professional touch."*/
+div#content
+{
+	float:right;
+	width:500px
+}
+
+/*Separates the menu from the paragraphs.*/
+div#navigation
+{
+	float:left;
+	width:200px;
+}
+
+/*Makes the basic information's text purple and the background-colour yellow.*/
+ul.styled-list
+{
+	background-color:yellow;
+	color:purple;
+}
+
+/*Makes the menu heading center and has a background colour of a unique magenta.*/
+#unique
+{
+	text-align:center;
+	background-color:#FF43FC
+}
+
+/*Makes the menu's list's background colour a unique green.*/
+ul.menu
+{
+	background-color:#39FF14;
+}
+
+/*Makes all the content headings a unique orange.*/
+h2
+{
+	text-align:center;
+	background-color:#FF9933
+}
+
+/*Makes the title of the content's background colour aqua.*/
+h1
+{
+	background-color:aqua;
+	
+}
+
+/*Makes all the image caption's background colour purple and text colour yello.*/
+p.captions
+{
+	background-color:purple;
+	color:yellow;
+}
+
+/*Makes the external link with Selena Gomez's official website a different colour (background is red and text colour is green.*/
+#different
+{
+	background-color: red;
+	color: green
+}
+
+/*Puts space between the image and text.*/
+img 
+{ 
+	margin: 60 px 0px; 
+} 
+
+/*Centers the HTML validator image.*/
+.center
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+/*Font size, background colour and text colour for references.*/
+ol
+{
+	background-color:purple;
+	color:yellow;
+	font-size:10pt;
+}
+
+/*Centers the references subheading and makes the background colour purple and text colour yellow.*/ 
+#references
+{
+	background-color:purple;
+	color:yellow;
+	text-align:center
+}
+
+
+	
+
